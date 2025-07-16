@@ -1,9 +1,17 @@
+<!-- Banner Image -->
+<p align="center">
+  <img width="1000" height="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Fikremariam, but feel free to call me Fikre!</h1>
+<h1 align="center">Hi 👋, I'm Fikremariam, but feel free to call me FIKRE!</h1>
+
 <p align="left">Full Stack Developer (MERN) | JavaScript | React | Node.js | Express | MySQL | MongoDB</p>
+<!-- profile Image -->
+<!-- <img align="right" width="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" /> -->
+<br />
 
-<img align="right" width="400" alt="mern" src="https://github.com/user-attachments/assets/348ddfcd-0518-4332-8657-3277350fda1d" />
 <h2 align="center">🚀 Languages and Tools I Use</h2>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -21,10 +29,15 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
+
+
 <h2>⚡️ Where to find me</h2>
+
 <p><a target="_blank" href="https://dev.to/https://dev.to/f_k_a20920974fcb9f0ed343c" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/fikremariam-kassa-28916062/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fikre-M&show_icons=true&locale=en" alt="Fikre-M" /></p>
+
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/Fikre">
